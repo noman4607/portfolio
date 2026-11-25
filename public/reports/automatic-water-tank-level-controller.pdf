@@ -1,0 +1,80 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 4635 >>
+stream
+BT /F2 9 Tf 1 0 0 1 52 788 Tm (PROJECT REPORT — 07) Tj ET
+BT /F2 15 Tf 1 0 0 1 52 771.6 Tm (AUTOMATIC WATER TANK LEVEL CONTROLLER) Tj ET
+BT /F1 8.5 Tf 1 0 0 1 52 749.2 Tm (Author: Khan Abdullah All Noman  |  B.Sc. Mechanical Engineering, KUET  |  Automation & Control Systems) Tj ET
+BT /F1 8.5 Tf 1 0 0 1 52 735.3000000000001 Tm (Core Tools & Methods: Arduino, C Programming, Automatic Control Projects, Product Prototyping) Tj ET
+0.85 0.88 0.92 RG 0.6 w 52 731.3000000000001 m 543 731.3000000000001 l S
+BT /F2 10 Tf 1 0 0 1 52 708.4000000000001 Tm (1. PROJECT OVERVIEW) Tj ET
+0.85 0.88 0.92 RG 0.6 w 52 704.4000000000001 m 543 704.4000000000001 l S
+BT /F1 9.2 Tf 1 0 0 1 52 686.0000000000001 Tm (Manual operation of residential overhead water pumps frequently leads to tank overflows,) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 52 673.4000000000001 Tm (wasted water, unnecessary electricity consumption, or dry tanks. This project delivered the) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 52 660.8000000000001 Tm (design and construction of a residential automatic water tank level controller that monitors) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 52 648.2 Tm (tank water levels and automatically governs pump switching.) Tj ET
+BT /F2 10 Tf 1 0 0 1 52 625.6 Tm (2. ENGINEERING OBJECTIVE) Tj ET
+0.85 0.88 0.92 RG 0.6 w 52 621.6 m 543 621.6 l S
+BT /F1 9.2 Tf 1 0 0 1 52 603.2 Tm (Automate residential water pump switching based on defined low and high water-level) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 52 590.6 Tm (thresholds in an overhead tank, minimizing daily manual supervision and preventing overflow.) Tj ET
+BT /F2 10 Tf 1 0 0 1 52 568 Tm (3. MECHANICAL & SYSTEM DESIGN APPROACH) Tj ET
+0.85 0.88 0.92 RG 0.6 w 52 564 m 543 564 l S
+BT /F1 9.2 Tf 1 0 0 1 52 545.6 Tm (Integrated level-sensing inputs with microcontroller/control switching logic and relay) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 52 533 Tm (actuation inside a protective enclosure, separating low-voltage level sensing from pump) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 52 520.4 Tm (switching circuitry for practical residential use.) Tj ET
+BT /F2 10 Tf 1 0 0 1 52 497.79999999999995 Tm (4. DEVELOPMENT METHODOLOGY) Tj ET
+0.85 0.88 0.92 RG 0.6 w 52 493.79999999999995 m 543 493.79999999999995 l S
+BT /F1 9.2 Tf 1 0 0 1 52 475.4 Tm (1. Defined residential overhead tank control states \(low-level pump activation and) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 52 462.79999999999995 Tm (   high-level automatic cutoff\).) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 52 448.19999999999993 Tm (2. Designed sensing and switching architecture pairing water-level probes with automated) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 52 435.5999999999999 Tm (   control logic and relay actuation.) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 52 420.9999999999999 Tm (3. Programmed and verified switching logic for reliable, chatter-free pump control) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 52 408.39999999999986 Tm (   transitions.) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 52 393.79999999999984 Tm (4. Constructed and tested the working residential automatic water tank level controller) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 52 381.1999999999998 Tm (   prototype.) Tj ET
+BT /F2 10 Tf 1 0 0 1 52 358.5999999999998 Tm (5. FABRICATION & CONSTRUCTION SUMMARY) Tj ET
+0.85 0.88 0.92 RG 0.6 w 52 354.5999999999998 m 543 354.5999999999998 l S
+BT /F1 9.2 Tf 1 0 0 1 52 336.1999999999998 Tm (Construction involved circuit assembly, enclosure preparation, terminal wiring of level) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 52 323.5999999999998 Tm (sensor probes and switching relay output, and functional bench testing.) Tj ET
+BT /F2 10 Tf 1 0 0 1 52 300.9999999999998 Tm (6. PROJECT OUTCOME) Tj ET
+0.85 0.88 0.92 RG 0.6 w 52 296.9999999999998 m 543 296.9999999999998 l S
+BT /F1 9.2 Tf 1 0 0 1 52 278.5999999999998 Tm (Constructed a working automatic water tank level controller demonstrating automated) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 52 265.9999999999998 Tm (residential pump control with reduced manual intervention.) Tj ET
+BT /F2 10 Tf 1 0 0 1 52 243.39999999999978 Tm (7. KEY ENGINEERING TAKEAWAYS) Tj ET
+0.85 0.88 0.92 RG 0.6 w 52 239.39999999999978 m 543 239.39999999999978 l S
+BT /F1 9.2 Tf 1 0 0 1 52 220.99999999999977 Tm (- Practical residential automation succeeds when control logic is simple, repeatable, and) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 52 208.39999999999978 Tm (  housed cleanly for straightforward wiring and maintenance.) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 52 193.79999999999978 Tm (- Separating threshold trigger points prevents rapid pump cycling near boundary water) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 52 181.1999999999998 Tm (  levels.) Tj ET
+BT /F1 8 Tf 1 0 0 1 52 34 Tm (Khan Abdullah All Noman  |  Automatic Water Tank Level Controller  |  Page 1 of 1) Tj ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000185 00000 n 
+0000000260 00000 n 
+0000000396 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+5083
+%%EOF
